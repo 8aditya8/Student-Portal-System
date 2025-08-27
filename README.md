@@ -173,6 +173,3 @@ The application uses SQLite database (`portal.db`) which is automatically create
 - Password encryption
 - Multi-language support
 
-## License
-
-This project is developed for educational purposes.
